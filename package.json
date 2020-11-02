@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^12.1.10",
     "firebase": "^8.0.0",
     "react": "^16.14.0",
-    "react-dom": "^16.13.1",
+    "react-dom": "^16.14.0",
     "react-redux": "^7.2.2",
     "react-redux-firebase": "^3.7.0",
     "react-router": "^5.2.0",
